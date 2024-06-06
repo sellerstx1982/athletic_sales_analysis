@@ -1,2 +1,2 @@
-# athletic_sales_analysis
-Athletic Sales Analysis with Python Pandas in Jupyter Notebook using groupby and pivot tables.
+# Athletic Sales Analysis
+My coding project uses Python Pandas in Jupyter Notebook to work with athletic sales for 2020 and 2021 in two separate .csv files.

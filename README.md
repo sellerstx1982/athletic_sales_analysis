@@ -1,5 +1,5 @@
 # Athletic Sales Analysis
-My coding project uses the Pandas to combine, clean, and sort data from two CSV files representing athletic sales from the years 2020 and 2021 as resources.
+My coding project uses Pandas to combine, clean, and sort data from two CSV files representing athletic sales from the years 2020 and 2021 as resources.
 
 ## Process:
 To begin, open the athletic_sales_analysis.ipynb file in a source code editor that supports Jupyter Notebook. Each cell has code that displays an output below the individual cell. Use the play button outside the top left corner of each cell to run each cell. You can also click inside the cell and press Shift + Enter to run the cell and move down to the next cell. The output of each cell displays what the comment requests and uses the Pandas Library of the Python coding language.
